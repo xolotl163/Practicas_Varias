@@ -1,4 +1,4 @@
-#Practicas Varias
+# Practicas Varias
 
 This repository was made with the objetive of keeping track of my various
 programming exercises and various examples.
